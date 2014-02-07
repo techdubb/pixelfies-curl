@@ -1,0 +1,22 @@
+{
+  "name": "pixelfies-curl",
+  "version": "0.0.0",
+  "description": "Display pixelfies in the terminal.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "~3.4.8",
+    "logfmt": "~0.20.0",
+    "request": "~2.33.0",
+    "picture-tube": "git://github.com/h0ke/picture-tube.git#master",
+    "through": "~2.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pixelfies"
+  ],
+  "author": "h0ke",
+  "license": "BSD-2-Clause"
+}

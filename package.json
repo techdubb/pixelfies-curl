@@ -17,6 +17,9 @@
   "keywords": [
     "pixelfies"
   ],
+  "engines": {
+    "node": "6.11.1"
+  },
   "author": "h0ke",
   "license": "BSD-2-Clause"
 }
